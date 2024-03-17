@@ -7,6 +7,11 @@ volta: 1.0.8
 node: v20.11.1  
 npm: 10.2.4  
 
+
+shadcn/ui  
+icon: @radix-ui/react-icons
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
